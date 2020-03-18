@@ -12,7 +12,7 @@
 Refer to the [Raspberry Pi GPIO Documentation](https://www.raspberrypi.org/documentation/usage/gpio/) for numbering.
 
 1. Connect a push button that goes from pin `GPIO 2` on one end and a `GND` on the other.
-2. Wire a 220 ohms resistor and a LED in series connected to `GPIO 18` and a `GND`
+2. As a separate circuit, wire a 220 ohms resistor and a LED in series connected to `GPIO 18` and a `GND`
 
 ### Option 1: On a local machine
 
